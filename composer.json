@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "JinZhiSu\\AliPay": "src/"
+      "JinZhiSu\\AliPay\\": "src/"
     }
   }
 }
