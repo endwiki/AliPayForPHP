@@ -1,18 +1,20 @@
 {
-  "name": "jinzhisu/ali-pay-sdk-for-php",
-  "description": "Ali Pay SDK for PHP",
+  "name": "jinzhisu/ali-pay",
+  "description": "ali-pay",
   "authors": [
     {
-      "name": "ALI"
+      "name": "JinZhiSu",
+      "email": "admin@end.wiki",
+      "role": "Developer"
     }
   ],
   "license": "MIT",
   "require": {
-    "php": ">=5.4"
+    "php": ">=5.6"
   },
   "autoload": {
     "psr-4": {
-      "\\": "./"
+      "JinZhiSu\\AliPay": "src/"
     }
   }
 }
